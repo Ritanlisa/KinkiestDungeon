@@ -12955,3 +12955,17 @@ KDDamageModule,"Your RestraintName stops working due to water damage!"
 KDDamageModuleProgress,"Your RestraintName sustains water damage from the high-pressure water!"
 
 KDPlayNew,Play the graphics update for free at:
+
+UnrestraintAll,"Remove All Restraints"
+Get10KGold,"Get 10,000 Gold"
+AddTools,"Add keys and lockpicks"
+AddPerks,"Add spell point"
+GetSave,"Get Save Code"
+MaidRestrict,"Get yourself in Maid Suit"
+PetRestrict,"Get yourself in Pet Suit"
+HogtiedRestrict,"Get yourself Hogtied"
+WolfgirlRestrict,"Get yourself in Wolfgirl Suit"
+CyberDollRestrict,"Get yourself in Cyber Doll Suit"
+SuperRestrict,"Get yourself in All Available Suit"
+AllRestrict,"Get yourself in All Suits"
+Strict,"Get yourself in defined Strict Suit"

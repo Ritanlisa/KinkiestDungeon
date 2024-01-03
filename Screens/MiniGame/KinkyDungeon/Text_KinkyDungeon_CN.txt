@@ -17309,3 +17309,34 @@ Your RestraintName stops working due to water damage!
 你的 RestraintName 由于水导致损坏而停止工作！
 Your RestraintName sustains water damage from the high-pressure water!
 你的 RestraintName 因高压水而受到水损害！
+
+Remove All Restraints
+移除所有约束
+Get 10,000 Gold
+获得一万金币
+Add keys and lockpicks
+添加钥匙和撬锁工具
+Add spell point
+添加技能点
+Get Save Code
+获得保存码
+Get yourself in Maid Suit
+把自己束缚在女仆套装里面
+Get yourself in Pet Suit
+把自己束缚在宠物套装里面
+Get yourself Hogtied
+把自己驷马起来
+Get yourself in Wolfgirl Suit
+把自己束缚在狼女套装里面
+Get yourself in Cyber Doll Suit
+把自己束缚在赛博玩偶套装里面
+Get yourself in All Available Suit
+把自己束缚在全部可能的套装里面
+Get yourself in All Suits
+把自己束缚在所有套装里面
+Wrist Chain
+腰链
+Elbow Chain
+肘链
+Get yourself in defined Strict Suit
+把自己束缚在定义的严肃套装里面
